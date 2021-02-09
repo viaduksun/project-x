@@ -1,0 +1,33 @@
+{
+  "name": "project-x",
+  "version": "1.0.0",
+  "description": "Vadim Budko FE24",
+  "main": "app.js",
+  "scripts": {
+    "test": "console.log('Hello Node')",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viaduksun/project-x.git"
+  },
+  "keywords": [
+    "project-x"
+  ],
+  "author": "VB",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/viaduksun/project-x/issues"
+  },
+  "homepage": "https://github.com/viaduksun/project-x#readme",
+  "dependencies": {
+    "bootstrap": "^4.6.0",
+    "jquery": "^3.5.1",
+    "moment": "^2.29.1"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.26.14",
+    "eslint": "^7.19.0",
+    "gulp": "^4.0.2"
+  }
+}
